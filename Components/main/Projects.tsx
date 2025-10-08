@@ -2,14 +2,13 @@
 
 import React from "react";
 import ProjectCard from "../sub/ProjectCard";
-import Image from "next/image";
 import Slider from "react-slick";
 
 
 const Projects = () => {
 
  
-  var settings = {
+  const settings = {
     dots: false,
     infinite: true,
     speed: 500,
