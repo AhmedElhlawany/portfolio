@@ -6,10 +6,11 @@ import Hero from "@/Components/main/Hero";
 import Projects from "@/Components/main/Projects";
 import Skills from "@/Components/main/Skills";
 
-// import 'bootstrap/dist/css/bootstrap.min.css';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
+//import Image from "next/image";
 
+// import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 export default function Home() {
