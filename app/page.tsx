@@ -5,16 +5,15 @@ import Footer from "@/Components/main/Footer";
 import Hero from "@/Components/main/Hero";
 import Projects from "@/Components/main/Projects";
 import Skills from "@/Components/main/Skills";
-<<<<<<< HEAD
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 //import Image from "next/image";
-=======
+
 // import 'bootstrap/dist/css/bootstrap.min.css';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Image from "next/image";
->>>>>>> 6dffd87 (fix images)
+
 
 export default function Home() {
   return (
